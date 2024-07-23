@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">micdaproject</string>
+    <string name="welcome_message">Welcome to androis koala</string>
+    <string name="email_valut">Enter a valide email</string>
+</resources>
